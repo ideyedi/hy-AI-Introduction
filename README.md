@@ -1,9 +1,8 @@
 # hy-AI-Introduction
 
-environment
+### environment
 
-directory
--- introduction : AI introduction lecture example source
- | 
- - programming : AI programming lecture assignments
+### directory
+-- introduction : AI introduction lecture example source.  
+-- programming : AI programming lecture assignments. 
 
