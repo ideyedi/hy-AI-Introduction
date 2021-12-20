@@ -1,8 +1,8 @@
 ## 관객 예측 모델링
 
 ### Abstract
-주어진 데이터를 이용해서 총 관객 수를 예측하는 것을 목표
-Non-disclosure agreement(NDA) data-sets
+주어진 데이터를 이용해서 총 관객 수를 예측하는 것을 목표  
+Non-disclosure agreement(NDA) data-sets  
 
 ### Environment
 Package              Version  
