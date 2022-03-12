@@ -3,6 +3,8 @@
 ### environment
 
 ### directory
--- introduction : AI introduction lecture example source.  
--- programming : AI programming lecture assignments. 
-
+-- AIIntroduction : AI introduction lecture example source  
+-- AIProgramming : AI programming lecture assignments  
+-- AIProblemSolve
+-- PythonProgramming
+-- Hylu-s
