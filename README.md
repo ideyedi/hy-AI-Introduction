@@ -5,6 +5,6 @@
 ### directory
 -- AIIntroduction : AI introduction lecture example source  
 -- AIProgramming : AI programming lecture assignments  
--- AIProblemSolve
--- PythonProgramming
--- Hylu-s
+-- AIProblemSolve  
+-- PythonProgramming  
+-- Hylu-s  
