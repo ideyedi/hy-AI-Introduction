@@ -9,6 +9,8 @@ keras = "*"
 matplotlib = "*"
 tensorflow = "*"
 opencv-python = "*"
+sklearn = "*"
+tqdm = "*"
 
 [dev-packages]
 
