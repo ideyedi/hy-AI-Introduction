@@ -7,10 +7,10 @@ name = "pypi"
 jupyterlab = "*"
 keras = "*"
 matplotlib = "*"
-tensorflow = "*"
 opencv-python = "*"
 sklearn = "*"
 tqdm = "*"
+tensorflow-gpu = "*"
 
 [dev-packages]
 
