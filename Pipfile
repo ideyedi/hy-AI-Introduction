@@ -10,7 +10,7 @@ matplotlib = "*"
 opencv-python = "*"
 sklearn = "*"
 tqdm = "*"
-tensorflow-gpu = "*"
+tensorflow = "*"
 
 [dev-packages]
 
