@@ -1,7 +1,7 @@
 # Private data CJ
 *.csv
 
-# ..?
+enzymes/
 .DS_Store
 .idea
 
