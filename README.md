@@ -7,4 +7,5 @@
 -- AIProgramming : AI programming lecture assignments  
 -- AIProblemSolve  
 -- PythonProgramming  
--- Hylu-s  
+-- Hylu-s 
+-- AIForDataScience
