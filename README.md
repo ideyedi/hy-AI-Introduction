@@ -1,7 +1,5 @@
 # hy-AI-Introduction
 
-# test
-
 ### environment
 python version 3.8.12
 
