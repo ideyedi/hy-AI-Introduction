@@ -1,7 +1,10 @@
 # Private data CJ
 *.csv
 
+# AIForDS 데이터 파일 경로 예외
 enzymes/
+dataset/
+
 .DS_Store
 .idea
 
