@@ -9,6 +9,7 @@ numpy = "*"
 jupyterlab = "*"
 matplotlib = "*"
 ipywidgets = "*"
+torch-geometric = "*"
 
 [dev-packages]
 
